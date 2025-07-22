@@ -1,1 +1,2 @@
 # dummyjsonApiCases
+# dummyjsonApiCasesForParibu
